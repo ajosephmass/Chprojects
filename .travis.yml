@@ -3,5 +3,4 @@
     - "3.6"
   install: 
     - pip install unittest2
-  script:
-    - pytest
+  script: python fib_test.py
